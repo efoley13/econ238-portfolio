@@ -253,3 +253,49 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
+/* ---------- WEEK PAGES ---------- */
+
+.week-page {
+    max-width: 850px;
+    margin: auto;
+    padding: 80px 30px;
+}
+
+.week-header {
+    margin-bottom: 70px;
+}
+
+.week-header h1 {
+    font-family: Georgia, serif;
+    font-size: 52px;
+    line-height: 1.1;
+    color: #183b29;
+    margin: 10px 0 20px;
+}
+
+.week-header p {
+    font-size: 19px;
+    color: #57645b;
+}
+
+.assignment-section {
+    background-color: white;
+    padding: 35px;
+    margin-bottom: 30px;
+    border: 1px solid #dfe4dc;
+    border-radius: 10px;
+}
+
+.assignment-section h2 {
+    font-family: Georgia, serif;
+    color: #23462f;
+    font-size: 30px;
+    margin-top: 0;
+}
+
+.assignment-section p {
+    color: #4f5b53;
+    font-size: 17px;
+    line-height: 1.8;
+}
