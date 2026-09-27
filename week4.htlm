@@ -1,1 +1,339 @@
-<h1>Extreme Weather Creates the Hazard</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Extreme Weather Creates the Hazard | ECON 238</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar">
+        <div class="logo">ECON 238</div>
+
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="week1.html">Week 1</a>
+            <a href="#sources">Sources</a>
+            <a href="#poster">Poster</a>
+        </div>
+    </nav>
+</header>
+
+
+<main class="week-page">
+
+    <!-- INTRODUCTION -->
+
+    <section class="week-header">
+        <div class="section-label">WEEK FOUR · EXTREME WEATHER</div>
+
+        <h1>Extreme Weather Creates the Hazard</h1>
+
+        <p>
+            People, places, technology, and adaptation help determine the outcome.
+        </p>
+    </section>
+
+
+    <!-- OPENING ARGUMENT -->
+
+    <section class="assignment-section">
+
+        <h2>Not a Simple Solution</h2>
+
+        <p>
+            Changes in extreme weather can't simply be determined by the number
+            of deaths from these weather disasters. Between a growing population,
+            movement in and out of coastal areas, and more capital investment in
+            these areas, the narrative is not clear on whether severe weather has
+            gotten worse over the years, or if adaptations have just made us
+            better equipped to deal with it.
+        </p>
+
+    </section>
+
+
+    <!-- FATALITIES -->
+
+    <section class="assignment-section">
+
+        <div class="card-label">THE BIG PICTURE</div>
+
+        <h2>Severe Weather Fatalities Over Time</h2>
+
+        <p>
+            Average annual deaths from tornadoes, floods, and hurricanes have
+            generally declined since the 1940s, even as the U.S. population has
+            grown substantially.
+        </p>
+
+        <div class="chart-placeholder">
+            <p><strong>Annual Average Fatalities by Decade</strong></p>
+            <p>
+                Tornadoes · Floods · Hurricanes
+            </p>
+
+            <!-- Add fatality chart image here -->
+            <img src="fatalities-chart.png"
+                 alt="Average annual tornado, flood, and hurricane fatalities by decade">
+        </div>
+
+        <p>
+            The death intensity for severe weather events—tornadoes, hurricanes,
+            and flooding—has sharply decreased since 1940, even with a growing
+            population. This by itself is not an explanation that severe weather
+            isn't getting worse.
+        </p>
+
+        <div class="chart-placeholder">
+            <p><strong>Death Intensity by Decade</strong></p>
+
+            <!-- Add death intensity chart image here -->
+            <img src="death-intensity-chart.png"
+                 alt="Population-adjusted severe weather death intensity by decade">
+        </div>
+
+        <p>
+            Better adaptation and technology allow us to not be as affected as
+            we were in the past. Better buildings, air conditioning, evacuation
+            methods and warnings, and other preventative measures can reduce
+            mortality.
+        </p>
+
+    </section>
+
+
+    <!-- DISASTER LOSSES -->
+
+    <section class="assignment-section">
+
+        <div class="card-label">EXPOSURE</div>
+
+        <h2>More Damage ≠ More Severe Weather</h2>
+
+        <p>
+            The increase in disaster loss and damages we have seen over the years
+            is also not clear evidence that more severe weather has occurred.
+            More people, infrastructure, and wealth are being invested into these
+            areas. The more capital that is exposed, then the more capital damage
+            occurs.
+        </p>
+
+        <div class="takeaway-box">
+            <strong>Why are disaster losses changing?</strong>
+
+            <p>
+                More people + more infrastructure + more wealth in exposed
+                locations = greater potential losses.
+            </p>
+        </div>
+
+        <p>
+            This is shown by the IPCC report, which identifies increased exposure
+            of people and economic assets as an important cause of long-term
+            increases in economic disaster losses.
+        </p>
+
+    </section>
+
+
+    <!-- MIGRATION -->
+
+    <section class="assignment-section">
+
+        <div class="card-label">MIGRATION & EXPOSURE</div>
+
+        <h2>Where People Live Matters</h2>
+
+        <p>
+            Domestic migration is also not so clear. From 2000–2008, net domestic
+            migration out of coastline counties was negative overall, with several
+            Northeast states being net negative. But some southern states, such
+            as Florida and the Carolinas, were positive.
+        </p>
+
+        <div class="chart-placeholder">
+            <p><strong>Net Domestic Migration in Selected U.S. Coastline Counties</strong></p>
+            <p>2000–2008</p>
+
+            <!-- Add migration chart image here -->
+            <img src="coastal-migration-chart.png"
+                 alt="Net domestic migration in selected coastline counties from 2000 to 2008">
+        </div>
+
+        <p>
+            This movement doesn't explain the reasoning behind the move. People
+            may be willing to accept the risk of living in these severe-weather
+            areas in exchange for better jobs, location, weather, or lower living
+            costs.
+        </p>
+
+        <div class="caution-box">
+            <strong>But wait:</strong> Moving to a coastline does not automatically
+            mean moving into an area with greater hurricane risk.
+        </div>
+
+    </section>
+
+
+    <!-- CHICAGO -->
+
+    <section class="assignment-section">
+
+        <div class="card-label">ADAPTATION IN PRACTICE</div>
+
+        <h2>Case Study: The 1995 Chicago Heat Wave</h2>
+
+        <p>
+            The 1995 Chicago heat wave had a high mortality rate, but the heat
+            itself was not unprecedented. Vulnerability and public-health
+            preparedness were also important.
+        </p>
+
+        <p>
+            Limited air conditioning, outreach programs, and support for elderly
+            and vulnerable populations contributed to the danger. Preventative
+            measures can therefore change the consequences of an extreme weather
+            event even when they cannot eliminate the hazard itself.
+        </p>
+
+    </section>
+
+
+    <!-- BURKE -->
+
+    <section class="assignment-section">
+
+        <div class="card-label">MEASUREMENT MATTERS</div>
+
+        <h2>Different Measurements Tell Different Stories</h2>
+
+        <div class="measurement-grid">
+
+            <div>
+                <h3>NWS Fatalities</h3>
+
+                <p>
+                    The National Weather Service counts deaths directly attributed
+                    to specific severe weather events, including hurricanes,
+                    tornadoes, floods, and heat waves.
+                </p>
+            </div>
+
+            <div>
+                <h3>Burke et al. (2025)</h3>
+
+                <p>
+                    Burke et al. estimate temperature-attributable mortality,
+                    capturing a broader range of deaths associated with everyday
+                    hot and cold temperatures—not only deaths officially recorded
+                    as severe-weather fatalities.
+                </p>
+            </div>
+
+        </div>
+
+        <div class="caution-box">
+            <strong>These measures calculate different things and should not be
+            directly compared.</strong>
+        </div>
+
+    </section>
+
+
+    <!-- CONCLUSION -->
+
+    <section class="assignment-section conclusion-section">
+
+        <div class="card-label">THE TAKEAWAY</div>
+
+        <h2>Hazard + Exposure + Vulnerability</h2>
+
+        <p>
+            All of this together shows us that hazard, exposure, and
+            vulnerabilities have to be used together to attempt to explain
+            extreme weather losses. One piece of measurement itself is not enough
+            of an answer.
+        </p>
+
+    </section>
+
+
+    <!-- SOURCES -->
+
+    <section class="assignment-section" id="sources">
+
+        <div class="card-label">SOURCES</div>
+
+        <h2>Sources & Methods</h2>
+
+        <p>
+            <strong>National Weather Service.</strong>
+            Weather Related Fatality and Injury Statistics.
+        </p>
+
+        <p>
+            <strong>U.S. Census Bureau.</strong>
+            <em>Coastline Population Trends in the United States: 1960 to 2008.</em>
+            Table 5.
+        </p>
+
+        <p>
+            <strong>Intergovernmental Panel on Climate Change.</strong>
+            <em>Managing the Risks of Extreme Events and Disasters to Advance
+            Climate Change Adaptation (SREX).</em>
+        </p>
+
+        <p>
+            <strong>Burke, Marshall et al. (2025).</strong>
+            “Understanding and Addressing Temperature Impacts on Mortality.”
+            NBER Working Paper No. 34313.
+        </p>
+
+    </section>
+
+
+    <!-- POSTER -->
+
+    <section class="assignment-section poster-section" id="poster">
+
+        <div class="card-label">FULL PUBLICATION</div>
+
+        <h2>View the Poster</h2>
+
+        <p>
+            Explore the condensed 18 × 24-inch poster version of this project.
+        </p>
+
+        <!-- Poster preview -->
+        <a href="extreme-weather-poster.pdf">
+            <img src="extreme-weather-poster.png"
+                 alt="Not a Simple Solution extreme weather poster"
+                 class="poster-preview">
+        </a>
+
+        <p>
+            <a href="extreme-weather-poster.pdf"
+               class="button"
+               target="_blank">
+                Download the 18 × 24 Poster
+            </a>
+        </p>
+
+    </section>
+
+</main>
+
+
+<footer>
+    Erin Foley · ECON 238 · Fall 2026
+</footer>
+
+</body>
+</html>
